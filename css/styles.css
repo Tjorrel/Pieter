@@ -38,12 +38,9 @@ em{
 
 }
 .middle-container {
+
   position:relative;
   margin: 100px 0 0 500px;
-}
-.bottom-container {
-position: relative;
-margin: 0 0 0 500px;
 }
 
 .Tsitsikamma {
@@ -56,9 +53,11 @@ margin: 0 0 0 500px;
   left: 200px;
   top: 60px;
 }
-.Oupadboom {
-  position: absolute;
-}
 .Pro {
   text-decoration: underline;
+}
+
+.bottom-container {
+
+
 }
